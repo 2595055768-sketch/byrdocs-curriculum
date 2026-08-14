@@ -324,6 +324,21 @@ curricula:
     name: 法学（第二学士学位）
   - type: 预科
     name: 预科一年制
+- id: ea518540af03d15665f3103a40ac9684
+  title: 数字媒体与设计艺术学院2025级本科专业培养方案
+  school: 数字媒体与设计艺术学院
+  year: '2025'
+  major:
+  - type: 本科
+    name: 数字媒体技术
+  - type: 本科（特殊培养）
+    name: 数字媒体技术（北京电影学院联合培养）
+  - type: 本科
+    name: 智能交互设计
+  - type: 本科
+    name: 数字媒体艺术
+  - type: 本科
+    name: 网络与新媒体
 - id: ea164b44af7894b02a5cedcf7fa4a4ce
   title: 数字媒体与设计艺术学院2023级本科专业培养方案
   school: 数字媒体与设计艺术学院
